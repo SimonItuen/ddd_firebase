@@ -1,10 +1,10 @@
 # ddd_firebase
 
-A new Flutter project.
+A Flutter Project implemented with Domain Driven Design
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application, it is dependent on Firebase and Google auth
 
 A few resources to get you started if this is your first Flutter project:
 
